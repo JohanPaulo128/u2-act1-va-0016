@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-tigre-0016.jpg
+Ruta del archivo: C:\IA_Gpo_3H\Ml_0016\mkdir p1-act1-0016\img-original-0016\img-tigre-0016.jpg
+Formato por extension: .JPG
+Tamano en bytes: 43337
+Tamano en KB: 42.32
+Tamano en MB: 0.0413
+
+DIMENSIONES
+-----------
+Ancho: 250 pixeles
+Alto: 308 pixeles
+Resolucion: 250 x 308
+Total de pixeles: 77,000
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 97.94
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 75.63
+Verde (G): 104.48
+Rojo (R): 113.71
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
